@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Reset your account immediately by clicking this unknown link.",
+    "expected_type": "phishing"
+  },
+  {
+    "text": "Repeated login failure for root user from a single host.",
+    "expected_type": "brute_force"
+  },
+  {
+    "text": "Team sync meeting is postponed to tomorrow.",
+    "expected_type": "normal"
+  }
+]

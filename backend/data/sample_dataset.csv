@@ -1,0 +1,21 @@
+text,label
+"Urgent: verify your account now at http://fake-bank-login.com",phishing
+"Your mailbox is full, click here to keep your account active",phishing
+"Congratulations! You won a free iPhone, claim now",spam
+"Get cheap medicines with 80 percent discount today",spam
+"Suspicious executable downloaded from unknown domain",malware
+"PowerShell script spawned hidden process and modified registry",malware
+"Daily standup moved to 10 AM, please join on time",normal
+"Server health check completed with no critical issues",normal
+"Repeated failed login attempts from IP 10.0.0.14",brute_force
+"Authentication failure threshold exceeded for admin account",brute_force
+"Employee copied confidential files to personal drive",insider_threat
+"Unauthorized data exfiltration detected from internal endpoint",insider_threat
+"Security warning: reset your password immediately using this link",phishing
+"Lowest loan rates available now, apply instantly",spam
+"Ransom note created and files encrypted on host",malware
+"Routine patching completed and systems rebooted",normal
+"VPN login failed 45 times in 2 minutes",brute_force
+"User accessed payroll database outside working hours",insider_threat
+"Please review attached invoice before EOD",normal
+"Click this attachment to unblock your email service",phishing
