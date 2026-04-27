@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Cybersecurity Threat Intelligence System using NLP
 
 End-to-end project to detect and classify cyber threats from text inputs (emails, logs, reports) using NLP + machine learning, with a FastAPI backend and React dashboard.
@@ -174,3 +175,7 @@ Expected examples:
 4. MLOps:
    - Add model versioning (MLflow), drift monitoring, and scheduled retraining.
 
+=======
+# NLP-Project
+DeepShield: AI-Powered Cyber Threat Detection using NLP
+>>>>>>> 1d2bcea1a85ba823952267ff3fb719ba86b2fddd
